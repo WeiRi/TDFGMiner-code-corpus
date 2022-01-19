@@ -1,0 +1,4 @@
+XSSFCellStyle cs = workBook.createCellStyle();
+cs.setAlignment(HorizontalAlignment.CENTER);
+c.setCellStyle(cs);
+

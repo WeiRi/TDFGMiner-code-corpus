@@ -1,0 +1,9 @@
+{
+    int int2 = int1 + 1;
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.getRow(<HOLE>);
+}

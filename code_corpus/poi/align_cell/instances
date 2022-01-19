@@ -1,0 +1,4 @@
+CellStyle style = workbook.createCellStyle();
+style.setAlignment(HorizontalAlignment.CENTER);
+cell.setCellStyle(style);
+

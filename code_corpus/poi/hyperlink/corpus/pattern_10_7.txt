@@ -1,0 +1,5 @@
+{
+    int int2 = 0;
+    <HOLE>.setHyperlink(<HOLE>);
+    <HOLE>.setCellStyle(<HOLE>);
+}

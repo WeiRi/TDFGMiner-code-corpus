@@ -1,0 +1,16 @@
+{
+    int int1 = 0;
+    int int2 = 0;
+    int2++;
+    int2++;
+    int2++;
+}
+{
+    org.apache.poi.hssf.usermodel.HSSFCellStyle hSSFCellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.hssf.usermodel.HSSFFont hSSFFont1 = <HOLE>.createFont();
+    return hSSFCellStyle1;
+}
+{
+    <HOLE>.setFont(<HOLE>);
+    return <HOLE>;
+}

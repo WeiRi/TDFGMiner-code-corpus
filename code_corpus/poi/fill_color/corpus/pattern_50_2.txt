@@ -1,0 +1,22 @@
+{
+    int int1 = 0;
+    int int2 = 0;
+    int2++;
+    int2++;
+    int2++;
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.createCell(<HOLE>);
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    cell1.setCellStyle(cellStyle1);
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+    <HOLE>.removeCell(cell1);
+}
+{
+    <HOLE>.setFillPattern(<HOLE>);
+}
+{
+    <HOLE>.setFillBackgroundColor(<HOLE>);
+}

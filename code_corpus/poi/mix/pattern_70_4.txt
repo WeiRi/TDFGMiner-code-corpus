@@ -1,0 +1,7 @@
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+    <HOLE>.removeCell(cell1);
+}
+{
+
+}

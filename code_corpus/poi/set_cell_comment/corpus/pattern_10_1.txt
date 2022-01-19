@@ -1,0 +1,16 @@
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.CellType cellType1 = org.apache.poi.ss.usermodel.CellType.<HOLE>;
+    <HOLE>.setCellType(cellType1);
+}
+{
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = <HOLE>.createClientAnchor();
+    clientAnchor1.setCol1(<HOLE>);
+    clientAnchor1.setRow1(<HOLE>);
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor2 = <HOLE>.createClientAnchor();
+}

@@ -1,0 +1,19 @@
+{
+    <HOLE>.setFont(<HOLE>);
+    <HOLE>.setBottomBorderColor(<HOLE>);
+    <HOLE>.setTopBorderColor(<HOLE>);
+    <HOLE>.setLeftBorderColor(<HOLE>);
+    <HOLE>.setRightBorderColor(<HOLE>);
+}
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.createRow(<HOLE>);
+    org.apache.poi.ss.usermodel.Cell cell1 = row1.createCell(<HOLE>);
+}
+{
+    <HOLE>.setFontHeightInPoints(<HOLE>);
+    short short1 = org.apache.poi.hssf.usermodel.HSSFFont.<HOLE>;
+    <HOLE>.setBoldweight(short1);
+}

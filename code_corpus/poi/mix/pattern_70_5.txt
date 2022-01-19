@@ -1,0 +1,73 @@
+{
+    <HOLE>.setFont(<HOLE>);
+    <HOLE>.setBottomBorderColor(<HOLE>);
+    <HOLE>.setTopBorderColor(<HOLE>);
+    <HOLE>.setLeftBorderColor(<HOLE>);
+    <HOLE>.setRightBorderColor(<HOLE>);
+    <HOLE>.setWrapText(<HOLE>);
+}
+{
+    <HOLE>.setFont(<HOLE>);
+    <HOLE>.setFillBackgroundColor(<HOLE>);
+    <HOLE>.setFillForegroundColor(<HOLE>);
+    <HOLE>.setBottomBorderColor(<HOLE>);
+    <HOLE>.setTopBorderColor(<HOLE>);
+    <HOLE>.setLeftBorderColor(<HOLE>);
+    <HOLE>.setRightBorderColor(<HOLE>);
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    cellStyle1.setFont(font1);
+    return cellStyle1;
+}
+{
+    <HOLE>.setFontHeightInPoints(<HOLE>);
+    <HOLE>.setBoldweight(<HOLE>);
+    <HOLE>.setColor(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.createRow(<HOLE>);
+    org.apache.poi.ss.usermodel.Cell cell1 = row1.createCell(<HOLE>);
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    cell1.setCellStyle(cellStyle1);
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.createRow(<HOLE>);
+    org.apache.poi.ss.usermodel.Cell cell1 = row1.createCell(<HOLE>);
+    int int1 = 0;
+}
+{
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.getRow(<HOLE>);
+}
+{
+    <HOLE>.setFontHeightInPoints(<HOLE>);
+    short short1 = org.apache.poi.ss.usermodel.Font.<HOLE>;
+    <HOLE>.setBoldweight(short1);
+}
+{
+    int int1 = 4;
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.createRow(int1);
+    int int2 = 4;
+    int int3 = 4;
+    int int4 = 4;
+    int int5 = 4;
+    org.apache.poi.ss.usermodel.Cell cell1 = row1.createCell(int5);
+}
+{
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.CellStyle cellStyle2 = <HOLE>.createCellStyle();
+    boolean boolean1 = true;
+    cellStyle2.setWrapText(boolean1);
+}
+{
+    <HOLE>.setFillForegroundColor(<HOLE>);
+    <HOLE>.setWrapText(<HOLE>);
+}

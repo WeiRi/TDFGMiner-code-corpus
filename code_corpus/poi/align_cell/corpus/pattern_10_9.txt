@@ -1,0 +1,19 @@
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    short short1 = org.apache.poi.hssf.usermodel.HSSFFont.<HOLE>;
+    font1.setBoldweight(short1);
+    <HOLE>.setFont(font1);
+    <HOLE>.setFont(font1);
+}
+{
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.CellStyle cellStyle2 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.CellStyle cellStyle3 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    cellStyle1.setFont(font1);
+    cellStyle1.setFont(font1);
+    org.apache.poi.ss.usermodel.CellStyle cellStyle4 = cellStyle1;
+}

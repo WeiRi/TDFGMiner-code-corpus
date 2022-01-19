@@ -1,0 +1,27 @@
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    font1.setFontHeightInPoints(<HOLE>);
+    cellStyle1.setFont(font1);
+}
+{
+    org.apache.poi.ss.usermodel.Workbook workbook1 = new org.apache.poi.hssf.usermodel.HSSFWorkbook[] {};
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = workbook1.createCellStyle();
+    org.apache.poi.ss.usermodel.Font font1 = workbook1.createFont();
+    cellStyle1.setFont(font1);
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.createRow(<HOLE>).createCell(<HOLE>);
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    cell1.setCellStyle(cellStyle1);
+}
+{
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    short short1 = org.apache.poi.hssf.usermodel.HSSFFont.<HOLE>;
+    font1.setBoldweight(short1);
+    <HOLE>.setFont(font1);
+    <HOLE>.setFont(font1);
+}

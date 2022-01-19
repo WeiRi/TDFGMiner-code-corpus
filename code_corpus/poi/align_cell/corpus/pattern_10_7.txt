@@ -1,0 +1,9 @@
+{
+
+}
+{
+    return <HOLE>.<HOLE> == <HOLE>;
+}
+{
+    org.apache.poi.hssf.usermodel.HSSFCell hSSFCell1 = null;
+}

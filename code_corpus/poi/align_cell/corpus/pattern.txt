@@ -1,0 +1,33 @@
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle1 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderTop(borderStyle1);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle2 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderBottom(borderStyle2);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle3 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderLeft(borderStyle3);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle4 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderRight(borderStyle4);
+}
+{
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    byte byte1 = org.apache.poi.ss.usermodel.Font.<HOLE>;
+    font1.setUnderline(byte1);
+    <HOLE>.setFont(font1);
+    boolean boolean1 = true;
+    font1.setItalic(boolean1);
+    <HOLE>.setFont(font1);
+    boolean boolean2 = true;
+    <HOLE>.setFont(font1);
+}
+{
+    org.apache.poi.ss.usermodel.HorizontalAlignment horizontalAlignment1 = org.apache.poi.ss.usermodel.HorizontalAlignment.<HOLE>;
+    <HOLE>.setAlignment(horizontalAlignment1);
+    org.apache.poi.ss.usermodel.VerticalAlignment verticalAlignment1 = org.apache.poi.ss.usermodel.VerticalAlignment.<HOLE>;
+    <HOLE>.setVerticalAlignment(verticalAlignment1);
+}
+{
+
+}

@@ -1,0 +1,8 @@
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+    <HOLE>.removeCell(cell1);
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.createCell(<HOLE>);
+    cell1.setCellStyle(<HOLE>);
+}

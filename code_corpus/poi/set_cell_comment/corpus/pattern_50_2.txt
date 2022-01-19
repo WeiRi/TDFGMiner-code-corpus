@@ -1,0 +1,26 @@
+{
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = <HOLE>.createClientAnchor();
+    int int1 = <HOLE>.getColumnIndex();
+    clientAnchor1.setCol1(int1);
+    int int2 = <HOLE>.getColumnIndex() + <HOLE>;
+    clientAnchor1.setCol2(int2);
+    clientAnchor1.setRow1(<HOLE>);
+    int int3 = <HOLE> + <HOLE>;
+    clientAnchor1.setRow2(int3);
+    <HOLE>.setCellComment(<HOLE>);
+}
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.Sheet sheet1 = <HOLE>.getSheet();
+    org.apache.poi.ss.usermodel.Workbook workbook1 = sheet1.getWorkbook();
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = workbook1.getCreationHelper();
+    <HOLE>.setCellComment(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.getRow(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+}

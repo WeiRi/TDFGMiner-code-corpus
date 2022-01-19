@@ -1,0 +1,20 @@
+{
+    int int1 = 0;
+    int int2 = 0;
+    int int3 = 0;
+    int int4 = 0;
+    int4++;
+    int2++;
+    int2++;
+    int2++;
+    int4++;
+}
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    cellStyle1.setFont(font1);
+    return cellStyle1;
+}

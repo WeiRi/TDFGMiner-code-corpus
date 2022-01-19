@@ -1,0 +1,9 @@
+{
+    int int1 = 3;
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.createRow(int1);
+    int int2 = 5;
+    org.apache.poi.ss.usermodel.Cell cell1 = row1.createCell(int2);
+    int int4 = 5;
+    int int5 = 3;
+    int int6 = 5;
+}

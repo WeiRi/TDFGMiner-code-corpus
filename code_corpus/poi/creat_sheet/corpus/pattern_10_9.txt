@@ -1,0 +1,6 @@
+{
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.createRow(<HOLE>);
+    int int1 = 0;
+    org.apache.poi.ss.usermodel.Cell cell1 = row1.createCell(int1);
+    int int2 = 0;
+}

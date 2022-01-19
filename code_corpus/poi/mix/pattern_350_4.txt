@@ -1,0 +1,110 @@
+{
+    <HOLE>.setFont(<HOLE>);
+    <HOLE>.setFillBackgroundColor(<HOLE>);
+    <HOLE>.setFillForegroundColor(<HOLE>);
+    <HOLE>.setBottomBorderColor(<HOLE>);
+    <HOLE>.setTopBorderColor(<HOLE>);
+    <HOLE>.setLeftBorderColor(<HOLE>);
+    <HOLE>.setRightBorderColor(<HOLE>);
+    <HOLE>.setDataFormat(<HOLE>);
+    <HOLE>.setWrapText(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = <HOLE>.getCreationHelper();
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    byte byte1 = org.apache.poi.ss.usermodel.Font.<HOLE>;
+    font1.setUnderline(byte1);
+    cellStyle1.setFont(font1);
+    int int2 = 0;
+    <HOLE>.setHyperlink(<HOLE>);
+    <HOLE>.setCellStyle(cellStyle1);
+}
+{
+
+}
+{
+    <HOLE>.setFont(<HOLE>);
+    short short1 = <HOLE>.<HOLE>;
+    <HOLE>.setFillBackgroundColor(short1);
+    short short2 = <HOLE>.<HOLE>;
+    <HOLE>.setFillForegroundColor(short2);
+    short short3 = <HOLE>.<HOLE>;
+    <HOLE>.setBottomBorderColor(short3);
+    short short4 = <HOLE>.<HOLE>;
+    <HOLE>.setTopBorderColor(short4);
+    short short5 = <HOLE>.<HOLE>;
+    <HOLE>.setLeftBorderColor(short5);
+    short short6 = <HOLE>.<HOLE>;
+    <HOLE>.setRightBorderColor(short6);
+}
+{
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = <HOLE>.getCreationHelper();
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = creationHelper1.createClientAnchor();
+    int int1 = <HOLE>.getColumnIndex();
+    clientAnchor1.setCol1(int1);
+    int int2 = <HOLE>.getRowNum();
+    clientAnchor1.setRow1(int2);
+    <HOLE>.setString(<HOLE>);
+    <HOLE>.setCellComment(<HOLE>);
+}
+{
+    <HOLE>.setFontHeightInPoints(<HOLE>);
+    <HOLE>.setBoldweight(<HOLE>);
+    <HOLE>.setColor(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = <HOLE>.createClientAnchor();
+    clientAnchor1.setCol1(<HOLE>);
+    clientAnchor1.setCol2(<HOLE>);
+    clientAnchor1.setRow1(<HOLE>);
+    clientAnchor1.setRow2(<HOLE>);
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor2 = <HOLE>.createClientAnchor();
+}
+{
+    org.apache.poi.ss.usermodel.HorizontalAlignment horizontalAlignment1 = org.apache.poi.ss.usermodel.HorizontalAlignment.<HOLE>;
+    <HOLE>.setAlignment(horizontalAlignment1);
+    org.apache.poi.ss.usermodel.VerticalAlignment verticalAlignment1 = org.apache.poi.ss.usermodel.VerticalAlignment.<HOLE>;
+    <HOLE>.setVerticalAlignment(verticalAlignment1);
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+    <HOLE>.removeCell(cell1);
+}
+{
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle1 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderTop(borderStyle1);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle2 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderBottom(borderStyle2);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle3 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderLeft(borderStyle3);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle4 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderRight(borderStyle4);
+    return <HOLE>;
+}
+{
+    short short1 = <HOLE>.<HOLE>;
+    <HOLE>.setFontHeightInPoints(short1);
+    short short2 = <HOLE>.<HOLE>;
+    <HOLE>.setBoldweight(short2);
+    short short3 = <HOLE>.<HOLE>;
+    <HOLE>.setColor(short3);
+}
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    boolean boolean1 = true;
+    cellStyle1.setWrapText(boolean1);
+    return cellStyle1;
+}
+{
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    short short1 = 12;
+    font1.setFontHeightInPoints(short1);
+    return font1;
+}

@@ -1,0 +1,9 @@
+{
+    org.apache.poi.ss.usermodel.Sheet sheet1 = <HOLE>.getSheet();
+    org.apache.poi.ss.usermodel.Workbook workbook1 = sheet1.getWorkbook();
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = workbook1.getCreationHelper();
+    <HOLE>.setCellComment(<HOLE>);
+}
+{
+
+}

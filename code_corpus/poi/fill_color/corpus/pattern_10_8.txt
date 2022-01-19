@@ -1,0 +1,8 @@
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.createCell(<HOLE>);
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    cell1.setCellStyle(cellStyle1);
+}
+{
+    int int2 = <HOLE>.getSheetAt(int1).getLastRowNum();
+}

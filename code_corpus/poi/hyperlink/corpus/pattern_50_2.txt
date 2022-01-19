@@ -1,0 +1,11 @@
+{
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = <HOLE>.getCreationHelper();
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    byte byte1 = org.apache.poi.ss.usermodel.Font.<HOLE>;
+    font1.setUnderline(byte1);
+    cellStyle1.setFont(font1);
+    int int2 = 0;
+    <HOLE>.setHyperlink(<HOLE>);
+    <HOLE>.setCellStyle(cellStyle1);
+}

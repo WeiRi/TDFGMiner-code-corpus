@@ -1,0 +1,22 @@
+{
+    org.apache.poi.ss.usermodel.HorizontalAlignment horizontalAlignment1 = org.apache.poi.ss.usermodel.HorizontalAlignment.<HOLE>;
+    <HOLE>.setAlignment(horizontalAlignment1);
+    org.apache.poi.ss.usermodel.VerticalAlignment verticalAlignment1 = org.apache.poi.ss.usermodel.VerticalAlignment.<HOLE>;
+    <HOLE>.setVerticalAlignment(verticalAlignment1);
+}
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.Cell cell1 = <HOLE>.getCell(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = <HOLE>.createClientAnchor();
+    clientAnchor1.setCol1(<HOLE>);
+    clientAnchor1.setRow1(<HOLE>);
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor2 = <HOLE>.createClientAnchor();
+}
+{
+    org.apache.poi.ss.usermodel.CellType cellType1 = org.apache.poi.ss.usermodel.CellType.<HOLE>;
+    <HOLE>.setCellType(cellType1);
+}

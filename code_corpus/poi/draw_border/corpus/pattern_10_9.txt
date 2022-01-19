@@ -1,0 +1,22 @@
+{
+    <HOLE>.setFont(<HOLE>);
+    <HOLE>.setBottomBorderColor(<HOLE>);
+    <HOLE>.setTopBorderColor(<HOLE>);
+    <HOLE>.setLeftBorderColor(<HOLE>);
+    <HOLE>.setRightBorderColor(<HOLE>);
+    <HOLE>.setWrapText(<HOLE>);
+}
+{
+    <HOLE>.setFont(<HOLE>);
+    <HOLE>.setFillBackgroundColor(<HOLE>);
+    <HOLE>.setFillForegroundColor(<HOLE>);
+    <HOLE>.setBottomBorderColor(<HOLE>);
+    <HOLE>.setTopBorderColor(<HOLE>);
+    <HOLE>.setLeftBorderColor(<HOLE>);
+    <HOLE>.setRightBorderColor(<HOLE>);
+}
+{
+    <HOLE>.setFontHeightInPoints(<HOLE>);
+    <HOLE>.setBoldweight(<HOLE>);
+    <HOLE>.setColor(<HOLE>);
+}

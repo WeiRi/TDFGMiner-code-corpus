@@ -1,0 +1,50 @@
+{
+    <HOLE>.setFont(<HOLE>);
+    <HOLE>.setFillBackgroundColor(<HOLE>);
+    <HOLE>.setFillForegroundColor(<HOLE>);
+    <HOLE>.setBottomBorderColor(<HOLE>);
+    <HOLE>.setTopBorderColor(<HOLE>);
+    <HOLE>.setLeftBorderColor(<HOLE>);
+    <HOLE>.setRightBorderColor(<HOLE>);
+    <HOLE>.setDataFormat(<HOLE>);
+    <HOLE>.setWrapText(<HOLE>);
+}
+{
+    <HOLE>.setFont(<HOLE>);
+    short short1 = <HOLE>.<HOLE>;
+    <HOLE>.setFillBackgroundColor(short1);
+    short short2 = <HOLE>.<HOLE>;
+    <HOLE>.setFillForegroundColor(short2);
+    short short3 = <HOLE>.<HOLE>;
+    <HOLE>.setBottomBorderColor(short3);
+    short short4 = <HOLE>.<HOLE>;
+    <HOLE>.setTopBorderColor(short4);
+    short short5 = <HOLE>.<HOLE>;
+    <HOLE>.setLeftBorderColor(short5);
+    short short6 = <HOLE>.<HOLE>;
+    <HOLE>.setRightBorderColor(short6);
+}
+{
+    <HOLE>.setFontHeightInPoints(<HOLE>);
+    <HOLE>.setBoldweight(<HOLE>);
+    <HOLE>.setColor(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.Workbook workbook1 = new org.apache.poi.hssf.usermodel.HSSFWorkbook[] {};
+    int int1 = 1;
+    org.apache.poi.ss.usermodel.Row row1 = <HOLE>.createRow(int1);
+    int int2 = 1;
+    org.apache.poi.ss.usermodel.Cell cell1 = row1.createCell(int2);
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = workbook1.createCellStyle();
+    cell1.setCellStyle(cellStyle1);
+}
+{
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle1 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderBottom(borderStyle1);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle2 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderTop(borderStyle2);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle3 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderRight(borderStyle3);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle4 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderLeft(borderStyle4);
+}

@@ -1,0 +1,13 @@
+{
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle1 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderBottom(borderStyle1);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle2 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderLeft(borderStyle2);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle3 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderRight(borderStyle3);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle4 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    <HOLE>.setBorderTop(borderStyle4);
+    org.apache.poi.ss.usermodel.HorizontalAlignment horizontalAlignment1 = org.apache.poi.ss.usermodel.HorizontalAlignment.<HOLE>;
+    <HOLE>.setAlignment(horizontalAlignment1);
+    return <HOLE>;
+}

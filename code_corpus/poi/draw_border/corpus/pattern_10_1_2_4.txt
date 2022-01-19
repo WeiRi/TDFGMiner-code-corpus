@@ -1,0 +1,24 @@
+{
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle1 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    cellStyle1.setBorderTop(borderStyle1);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle2 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    cellStyle1.setBorderBottom(borderStyle2);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle3 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    cellStyle1.setBorderLeft(borderStyle3);
+    org.apache.poi.ss.usermodel.BorderStyle borderStyle4 = org.apache.poi.ss.usermodel.BorderStyle.<HOLE>;
+    cellStyle1.setBorderRight(borderStyle4);
+}
+{
+
+}
+{
+    org.apache.poi.hssf.usermodel.HSSFCellStyle hSSFCellStyle1 = <HOLE>.createCellStyle();
+    return hSSFCellStyle1;
+}
+{
+
+}
+{
+
+}

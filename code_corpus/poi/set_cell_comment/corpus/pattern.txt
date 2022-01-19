@@ -1,0 +1,66 @@
+{
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = <HOLE>.getSheet().getWorkbook().getCreationHelper();
+    org.apache.poi.ss.usermodel.Drawing drawing1 = <HOLE>.getSheet().createDrawingPatriarch();
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = creationHelper1.createClientAnchor();
+    int int1 = <HOLE>.getColumnIndex();
+    clientAnchor1.setCol1(int1);
+    int int2 = <HOLE>.getColumnIndex() + <HOLE>;
+    clientAnchor1.setCol2(int2);
+    int int3 = <HOLE>.getRowIndex();
+    clientAnchor1.setRow1(int3);
+    int int4 = <HOLE>.getRowIndex() + <HOLE>;
+    clientAnchor1.setRow2(int4);
+    <HOLE>.setString(<HOLE>);
+    <HOLE>.setCellComment(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = <HOLE>.getSheet().getWorkbook().getCreationHelper();
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = creationHelper1.createClientAnchor();
+    int int1 = <HOLE>.getColumnIndex();
+    clientAnchor1.setCol1(int1);
+    int int2 = <HOLE>.getColumnIndex() + <HOLE>;
+    clientAnchor1.setCol2(int2);
+    int int3 = <HOLE>.getRowIndex();
+    clientAnchor1.setRow1(int3);
+    int int4 = <HOLE>.getRowIndex() + <HOLE>;
+    clientAnchor1.setRow2(int4);
+    <HOLE>.setCellComment(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.Sheet sheet1 = <HOLE>.getSheet();
+    org.apache.poi.ss.usermodel.Workbook workbook1 = sheet1.getWorkbook();
+    org.apache.poi.ss.usermodel.Drawing drawing1 = sheet1.createDrawingPatriarch();
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = workbook1.getCreationHelper();
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = creationHelper1.createClientAnchor();
+    int int1 = <HOLE>.getColumnIndex();
+    clientAnchor1.setCol1(int1);
+    clientAnchor1.setRow1(<HOLE>);
+    <HOLE>.setString(<HOLE>);
+    <HOLE>.setCellComment(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = <HOLE>.createClientAnchor();
+    int int1 = <HOLE>.getColumnIndex();
+    clientAnchor1.setCol1(int1);
+    int int2 = <HOLE>.getColumnIndex() + 1;
+    clientAnchor1.setCol2(int2);
+    int int3 = <HOLE>.getRowNum();
+    clientAnchor1.setRow1(int3);
+    int int4 = <HOLE>.getRowNum() + <HOLE>;
+    clientAnchor1.setRow2(int4);
+    <HOLE>.setString(<HOLE>);
+    <HOLE>.setCellComment(<HOLE>);
+}
+{
+    org.apache.poi.ss.usermodel.CreationHelper creationHelper1 = <HOLE>.getCreationHelper();
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = creationHelper1.createClientAnchor();
+    int int2 = <HOLE>.getColumnIndex();
+    clientAnchor1.setCol1(int2);
+    int int3 = <HOLE>.getColumnIndex() + <HOLE>;
+    clientAnchor1.setCol2(int3);
+    clientAnchor1.setRow1(<HOLE>);
+    int int4 = <HOLE> + 3;
+    clientAnchor1.setRow2(int4);
+    <HOLE>.setString(<HOLE>);
+    <HOLE>.setCellComment(<HOLE>);
+}

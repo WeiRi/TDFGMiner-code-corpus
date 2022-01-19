@@ -1,0 +1,10 @@
+{
+    org.apache.poi.ss.usermodel.ClientAnchor clientAnchor1 = <HOLE>.createClientAnchor();
+    int int1 = <HOLE>.getColumnIndex();
+    clientAnchor1.setCol1(int1);
+    int int2 = <HOLE>.getColumnIndex() + 3;
+    clientAnchor1.setCol2(int2);
+    clientAnchor1.setRow1(<HOLE>);
+    int int3 = <HOLE> + 3;
+    clientAnchor1.setRow2(int3);
+}

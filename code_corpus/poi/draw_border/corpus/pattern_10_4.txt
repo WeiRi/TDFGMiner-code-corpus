@@ -1,0 +1,5 @@
+{
+    org.apache.poi.hssf.usermodel.HSSFCellStyle hSSFCellStyle1 = <HOLE>.createCellStyle();
+    org.apache.poi.hssf.usermodel.HSSFFont hSSFFont1 = <HOLE>.createFont();
+    return hSSFCellStyle1;
+}

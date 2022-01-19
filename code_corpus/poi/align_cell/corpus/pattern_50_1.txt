@@ -1,0 +1,13 @@
+{
+
+}
+{
+    org.apache.poi.ss.usermodel.HorizontalAlignment horizontalAlignment1 = org.apache.poi.ss.usermodel.HorizontalAlignment.<HOLE>;
+    <HOLE>.setAlignment(horizontalAlignment1);
+    org.apache.poi.ss.usermodel.VerticalAlignment verticalAlignment1 = org.apache.poi.ss.usermodel.VerticalAlignment.<HOLE>;
+    <HOLE>.setVerticalAlignment(verticalAlignment1);
+}
+{
+    <HOLE>.setFont(<HOLE>);
+    return <HOLE>;
+}

@@ -1,0 +1,10 @@
+{
+    <HOLE>.setFont(<HOLE>);
+    return <HOLE>;
+}
+{
+    org.apache.poi.ss.usermodel.CellStyle cellStyle1 = <HOLE>.createCellStyle();
+    boolean boolean1 = true;
+    cellStyle1.setWrapText(boolean1);
+    return cellStyle1;
+}

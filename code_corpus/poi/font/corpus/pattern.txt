@@ -1,0 +1,6 @@
+{
+    org.apache.poi.ss.usermodel.Font font1 = <HOLE>.createFont();
+    short short1 = 12;
+    font1.setFontHeightInPoints(short1);
+    return font1;
+}
